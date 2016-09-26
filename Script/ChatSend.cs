@@ -1,6 +1,8 @@
 using UnityEngine;
 using System.Collections;
-
+//dfhddd
+//dfhdsf
+//dfdfdf
 public class ChatSend : MonoBehaviour {
 	
 	public UILabel label;
